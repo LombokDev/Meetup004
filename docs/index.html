@@ -36,9 +36,6 @@
       text-decoration: underline;
     }
 
-    /* Sticky footer styles
--------------------------------------------------- */
-
     html {
       position: relative;
       min-height: 100%;
@@ -49,7 +46,6 @@
       bottom: 0;
       width: 100%;
       font-size: small;
-      /* Set the fixed height of the footer here */
       height: 100px;
       background-color: #f8f8f8;
     }
@@ -62,11 +58,6 @@
     .footer-information p {
       color: #7f8c8d;
     }
-
-    /* Custom page CSS
--------------------------------------------------- */
-
-    /* Not required for template or sticky footer method. */
 
     .container .text-muted {
       margin: 20px 0;
@@ -83,6 +74,10 @@
     .card-img-top {
       object-fit: cover;
       height: 250px;
+    }
+
+    .sponsor {
+      margin-top: 12%;
     }
   </style>
 </head>
@@ -111,6 +106,13 @@
           <a href="#">Daftar</a>
         </h4>
       </div>
+      <div class="sponsor">
+        <h5>Acara ini didukung oleh:</h5>
+        <a href="https://itec.sch.id/" target="_blank">
+          <img src="https://itec.web.id/wp-content/uploads/2017/10/logo-header.png" alt="itec sponsored">
+        </a>
+      </div>
+
     </div>
     <video autoplay muted loop>
       <source src="./res/video.mp4" type="video/mp4">
@@ -132,7 +134,7 @@
       </div>
       <div class="col-sm-6">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.1856513543003!2d116.10744851420839!3d-8.578141189418353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdc096560c8673%3A0x795bb06173d4e9d7!2sITEC+(+Information+Technology+Education+Center+)!5e0!3m2!1sen!2sid!4v1522771492886"
-          width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
     </div>
     <div class="row">
@@ -156,7 +158,7 @@
 
       <div class="col-sm-4">
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="https://www.petcentric.com/media/356965/01_cathello.jpg?width=500&height=301.025390625" alt="Card image cap">
+          <img class="card-img-top" src="./res/daniel.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Daniel</h5>
             <h6 class="card-subtitle mb-2 text-warning">Django Rest Framework</h6>
