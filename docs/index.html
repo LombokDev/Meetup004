@@ -98,6 +98,29 @@
     .card-title {
       font-size: 1.2em;
     }
+
+    @media (max-width: 1300px) {
+      .greeting h1 {
+        font-size: 1.5em;
+      }
+
+      .greeting h2 {
+        font-size: 1em;
+      }
+
+      .menus h4 {
+        font-size: 100%;
+      }
+
+      .sponsor {
+        margin-top: 7%;
+      }
+
+      .greeting {
+        overflow: scroll;
+      }
+
+    }
   </style>
 </head>
 
@@ -109,23 +132,26 @@
         <h1>Hi!</h1>
         <h2>Ketemu lagi di</h2>
         <h1>Lombok Dev Meetup
-          <span class="text-warning">#4</span>!</h1>
+          <span class="text-warning">#4</span>!
+        </h1>
         <h1>☺</h1>
         <br>
-        <h4>-
-          <a href="#">Daftar
-            <small>(Untuk 40 peserta!!)</small>
-          </a>
-        </h4>
-        <h4>-
-          <a href="#waktu-dan-tempat">Waktu dan Tempat</a>
-        </h4>
-        <h4>-
-          <a href="#materi">Materi & Pemateri</a>
-        </h4>
-        <h4>-
-          <a href="#">Susunan Acara</a>
-        </h4>
+        <div class="menus">
+          <h4>-
+            <a href="#">Daftar
+              <small>(Untuk 40 peserta!!)</small>
+            </a>
+          </h4>
+          <h4>-
+            <a href="#waktu-dan-tempat">Waktu dan Tempat</a>
+          </h4>
+          <h4>-
+            <a href="#materi">Materi & Pemateri</a>
+          </h4>
+          <h4>-
+            <a href="#">Susunan Acara</a>
+          </h4>
+        </div>
       </div>
       <div class="sponsor">
         <h5>Acara ini didukung oleh:</h5>
