@@ -15,7 +15,7 @@
 - Slot waktu (standar) untuk setiap pemateri adalah 30-40 menit (termasuk tanya jawab)
 - Pemateri bebas menggunakan waktu yang diberikan dan bebas mengatur sesi tanya jawab sesuai keinginan
 
-## Sponsor
-Acara ini didukung oleh:
+## Acara ini didukung oleh:
 
-[## ITEC](https://itec.web.id/wp-content/uploads/2017/10/logo-header.png)
+
+<a href="https://itec.web.id"><h3>ITEC</h3></a>
