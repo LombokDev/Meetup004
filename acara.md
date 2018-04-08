@@ -1,6 +1,10 @@
 ## Konsep
  [Tech Talk](https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md)
  
+ ## Waktu dan Tempat
+ Acara ini akan dilaksanakan di ITEC tanggal 15 April 2018
+ Map ke lokasi acara: [Map ITEC](https://goo.gl/maps/JP6C9syaMsQ2)
+ 
  ## Registrasi 
  Daftar untuk ikut acara di link: [Form Daftar Acara Lombok Dev Meetup #4](https://goo.gl/forms/zzGwAoZPL0h7eOV13)
  
