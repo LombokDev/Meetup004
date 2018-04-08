@@ -1,5 +1,5 @@
 ## Konsep
- {Lightning Talk, Tech Talk, Instant Talk, Bootcamp, Hackathon}
+ [https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md](Tech Talk)
  ## Susunan acara
  | WAKTU | PEMBICARA | AGENDA |
  |---------|------------|-----------|
