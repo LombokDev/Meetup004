@@ -1,5 +1,5 @@
 ## Konsep
- [https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md](Tech Talk)
+ [Tech Talk](https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md)
  ## Susunan acara
  | WAKTU           | PEMBICARA         | AGENDA    |
  |-----------------|-------------------|-----------|
