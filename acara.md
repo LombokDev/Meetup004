@@ -1,5 +1,9 @@
 ## Konsep
  [Tech Talk](https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md)
+ 
+ ## Registrasi 
+ Daftar untuk ikut acara di link: [Form Daftar Acara Lombok Dev Meetup #4](https://goo.gl/forms/zzGwAoZPL0h7eOV13)
+ 
  ## Susunan acara
  | WAKTU           | PEMBICARA         | AGENDA    |
  |-----------------|-------------------|-----------|
