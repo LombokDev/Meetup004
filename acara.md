@@ -18,4 +18,4 @@
 ## Sponsor
 Acara ini didukung oleh:
 
-[<img src="https://itec.web.id/wp-content/uploads/2017/10/logo-header.png" width="250px" title="ITEC" alt="ITEC">](https://itec.web.id/wp-content/uploads/2017/10/logo-header.png)
+[## ITEC](https://itec.web.id/wp-content/uploads/2017/10/logo-header.png)
