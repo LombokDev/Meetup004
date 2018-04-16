@@ -1,4 +1,4 @@
-# Tim Acara {nama-acara}
+# Tim Acara Lombok Dev Meetup #4
  | Nama              | Tanggung Jawab  |
  |-------------------|-----------------|
  | Kartarina         | Acara, Konsumsi |

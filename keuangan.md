@@ -1,10 +1,9 @@
 ## Rincian dana masuk
- | Sumber | Jumlah |
- |-----------------|---------------|
+| Sumber | Jumlah        |
+|--------|---------------|
+| Kas    | Rp380,000     |
  
- ## Rincian Pengeluaran
- 
- ### Pengeluaran 1
- Detail dan bukti
- ### Pengeluaran 2 dan seterusnya
-
+## Rincian Pengeluaran
+| Untuk | Dana      |
+|-------|-----------|
+| Snack | Rp100,000 |
