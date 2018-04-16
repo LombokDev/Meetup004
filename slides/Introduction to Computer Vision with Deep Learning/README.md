@@ -1,0 +1,1 @@
+Materi notebook bisa didapatkan pada alamat: [https://github.com/nunenuh/cvdl_intro](https://github.com/nunenuh/cvdl_intro)
